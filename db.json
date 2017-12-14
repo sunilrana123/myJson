@@ -1,0 +1,1273 @@
+{
+    "error": null,
+    "status": {
+        "result": "success",
+        "message": {
+            "title": "Successful",
+            "message": "Successfully fetched the ancillaries."
+        }
+    },
+    "body": {
+        "onward": [
+            {
+                "flight_number": " 198",
+                "origin": "BLR",
+                "destination": "DEL",
+                "ssrs": {
+                    "food": [
+                        {
+                            "title": "Meals",
+                            "items": [
+                                {
+                                    "amount": 275,
+                                    "available_quantity": 5000,
+                                    "code": "NVBF",
+                                    "tax": [],
+                                    "name": "Breakfast",
+                                    "is_veg": false,
+                                    "description": "Non Veg Breakfast",
+                                    "priority": 0
+                                },
+                                {
+                                    "amount": 275,
+                                    "available_quantity": 5000,
+                                    "code": "VBF1",
+                                    "tax": [],
+                                    "name": "Vegetable Upma",
+                                    "is_veg": true,
+                                    "description": "Vegetable Upma with Sambhar, Medu Wada & Steamed Idli with Coconut Chutney",
+                                    "priority": 1
+                                },
+                                {
+                                    "amount": 275,
+                                    "available_quantity": 5000,
+                                    "code": "VBF2",
+                                    "tax": [],
+                                    "name": "Paneer Bhurji",
+                                    "is_veg": true,
+                                    "description": "Paneer Bhurji with Vermicilli Croquette & Aloo Parantha",
+                                    "priority": 3
+                                },
+                                {
+                                    "amount": 275,
+                                    "available_quantity": 5000,
+                                    "code": "NLD2",
+                                    "tax": [],
+                                    "name": "Chicken Tikka",
+                                    "is_veg": false,
+                                    "description": "Chicken Tikka Biryani with Mirch ka Salan",
+                                    "priority": 4
+                                },
+                                {
+                                    "amount": 275,
+                                    "available_quantity": 5000,
+                                    "code": "VLD2",
+                                    "tax": [],
+                                    "name": "Vegetable Biryani",
+                                    "is_veg": true,
+                                    "description": "Vegetable Biryani with Mirch ka Salan",
+                                    "priority": 5
+                                },
+                                {
+                                    "amount": 275,
+                                    "available_quantity": 5000,
+                                    "code": "NLD1",
+                                    "tax": [],
+                                    "name": "Chicken Methi",
+                                    "is_veg": false,
+                                    "description": "Chicken Methi Malai with Jeera Rice and Dal Makhani",
+                                    "priority": 6
+                                },
+                                {
+                                    "amount": 275,
+                                    "available_quantity": 5000,
+                                    "code": "VLD1",
+                                    "tax": [],
+                                    "name": "Paneer Methi",
+                                    "is_veg": true,
+                                    "description": "Paneer Methi Malai with Jeera Rice and Dal Makhani",
+                                    "priority": 7
+                                },
+                                {
+                                    "amount": 275,
+                                    "available_quantity": 5000,
+                                    "code": "NSX1",
+                                    "tax": [],
+                                    "name": "Chilli Chicken",
+                                    "is_veg": false,
+                                    "description": "Chilli Chicken with Vegetable Hakka Noodles",
+                                    "priority": 8
+                                },
+                                {
+                                    "amount": 275,
+                                    "available_quantity": 5000,
+                                    "code": "VSX1",
+                                    "tax": [],
+                                    "name": "Chilli Paneer",
+                                    "is_veg": true,
+                                    "description": "Chilli Paneer with Vegetable Hakka Noodles",
+                                    "priority": 9
+                                },
+                                {
+                                    "amount": 275,
+                                    "available_quantity": 5000,
+                                    "code": "NSX2",
+                                    "tax": [],
+                                    "name": "Chicken Pasta",
+                                    "is_veg": false,
+                                    "description": "Chicken Pasta (Penne) with Tomato Sauce, Sauté Broccoli and Zucchini",
+                                    "priority": 10
+                                },
+                                {
+                                    "amount": 275,
+                                    "available_quantity": 5000,
+                                    "code": "VSX2",
+                                    "tax": [],
+                                    "name": "Vegetable Pasta",
+                                    "is_veg": true,
+                                    "description": "Vegetable Pasta (Penne) with Tomato Sauce, Sauté Broccoli and Zucchini",
+                                    "priority": 11
+                                },
+                                {
+                                    "amount": 300,
+                                    "available_quantity": 5000,
+                                    "code": "NCC2",
+                                    "tax": [],
+                                    "name": "Chicken Red Thai Curry",
+                                    "is_veg": false,
+                                    "description": "Chicken in Red Thai Curry with Steamed Rice",
+                                    "priority": 12
+                                },
+                                {
+                                    "amount": 300,
+                                    "available_quantity": 5000,
+                                    "code": "VCC2",
+                                    "tax": [],
+                                    "name": "Vegetables Red Thai Curry",
+                                    "is_veg": true,
+                                    "description": "Vegetables in Red Thai Curry with Steamed Rice",
+                                    "priority": 13
+                                },
+                                {
+                                    "amount": 300,
+                                    "available_quantity": 5000,
+                                    "code": "NCC3",
+                                    "tax": [],
+                                    "name": "Chicken Stroganoff",
+                                    "is_veg": false,
+                                    "description": "Chicken Stroganoff with Yellow Rice",
+                                    "priority": 14
+                                },
+                                {
+                                    "amount": 300,
+                                    "available_quantity": 5000,
+                                    "code": "VCC3",
+                                    "tax": [],
+                                    "name": "Vegetable Stroganoff",
+                                    "is_veg": true,
+                                    "description": "Vegetable Stroganoff with Yellow Rice",
+                                    "priority": 15
+                                },
+                                {
+                                    "amount": 300,
+                                    "available_quantity": 5000,
+                                    "code": "NCC1",
+                                    "tax": [],
+                                    "name": "Grilled Chicken",
+                                    "is_veg": false,
+                                    "description": "Grilled Chicken Breast with Mushroom Sauce, Yellow Rice, Sauté Carrot & Beans Baton",
+                                    "priority": 16
+                                },
+                                {
+                                    "amount": 300,
+                                    "available_quantity": 5000,
+                                    "code": "VCC4",
+                                    "tax": [],
+                                    "name": "Rajma Masala",
+                                    "is_veg": true,
+                                    "description": "Rajma Masala with Steamed Rice",
+                                    "priority": 17
+                                },
+                                {
+                                    "amount": 300,
+                                    "available_quantity": 5000,
+                                    "code": "VCC1",
+                                    "tax": [],
+                                    "name": "Kadi Pakoda",
+                                    "is_veg": true,
+                                    "description": "Kadi Pakoda with Steamed Rice",
+                                    "priority": 18
+                                },
+                                {
+                                    "amount": 180,
+                                    "available_quantity": 5000,
+                                    "code": "NSB1",
+                                    "tax": [],
+                                    "name": "Sub Sandwiches",
+                                    "is_veg": false,
+                                    "description": "Angara Chicken Tikka Sub roll in Multigrain Bread",
+                                    "priority": 21
+                                },
+                                {
+                                    "amount": 0,
+                                    "available_quantity": 5000,
+                                    "code": "VSB2",
+                                    "tax": [],
+                                    "name": "Sub Sandwiches",
+                                    "is_veg": true,
+                                    "description": "Grilled vegetable in Barbeque sauce in Multigrain Bread",
+                                    "priority": 22
+                                },
+                                {
+                                    "amount": 180,
+                                    "available_quantity": 5000,
+                                    "code": "NSW2",
+                                    "tax": [],
+                                    "name": "Classic Sandwiches",
+                                    "is_veg": false,
+                                    "description": "Barbeque Chicken Club sandwich in Marble Bread",
+                                    "priority": 23
+                                },
+                                {
+                                    "amount": 0,
+                                    "available_quantity": 5000,
+                                    "code": "VSW2",
+                                    "tax": [],
+                                    "name": "Classic Sandwiches",
+                                    "is_veg": true,
+                                    "description": "Spinach, Corn and Cheese Club sandwich in Marble Bread",
+                                    "priority": 24
+                                },
+                                {
+                                    "amount": 275,
+                                    "available_quantity": 5000,
+                                    "code": "NBF1",
+                                    "tax": [],
+                                    "name": "Masala Omelette",
+                                    "is_veg": false,
+                                    "description": "Masala Omelette with Chicken Nuggets and Hash Brown Potato Tikki",
+                                    "priority": 42
+                                },
+                                {
+                                    "amount": 275,
+                                    "available_quantity": 5000,
+                                    "code": "NVML",
+                                    "tax": [],
+                                    "name": "Meal",
+                                    "is_veg": false,
+                                    "description": "Non Veg Meal",
+                                    "priority": 43
+                                },
+                                {
+                                    "amount": 180,
+                                    "available_quantity": 5000,
+                                    "code": "NVSW",
+                                    "tax": [],
+                                    "name": "Sandwich",
+                                    "is_veg": false,
+                                    "description": "Non Veg Sandwich",
+                                    "priority": 44
+                                },
+                                {
+                                    "amount": 275,
+                                    "available_quantity": 5000,
+                                    "code": "VGBF",
+                                    "tax": [],
+                                    "name": "Breakfast",
+                                    "is_veg": true,
+                                    "description": "Veg Breakfast",
+                                    "priority": 45
+                                },
+                                {
+                                    "amount": 275,
+                                    "available_quantity": 5000,
+                                    "code": "VGML",
+                                    "tax": [],
+                                    "name": "Meal",
+                                    "is_veg": true,
+                                    "description": "Veg Meal",
+                                    "priority": 46
+                                },
+                                {
+                                    "amount": 0,
+                                    "available_quantity": 5000,
+                                    "code": "VGSW",
+                                    "tax": [],
+                                    "name": "Sandwich",
+                                    "is_veg": true,
+                                    "description": "Veg Sandwich",
+                                    "priority": 47
+                                },
+                                {
+                                    "amount": 275,
+                                    "available_quantity": 5000,
+                                    "code": "NBF2",
+                                    "tax": [],
+                                    "name": "Egg Bhurji",
+                                    "is_veg": false,
+                                    "description": "Egg Bhurji with Chicken Croquette & Aloo Parantha",
+                                    "priority": 48
+                                }
+                            ],
+                            "terms": [
+                                "By selecting any of the options, the Passenger agrees that if the pre-ordered meal is not made available onboard to the Passenger, Spicejet has the right to offer an alternate meal (as per availability) or a full refund (by way of a voucher of the equivalent value paid by the Passenger for the meal), at its discretion and without any further liability.",
+                                "Hot meals are only available for sale on Boeing flights with block time of 76 Mins and above. Hot beverages are available on Boeing Flights with block time of 51 mins and above & Q-400 flights with Block time of 76 mins and above.",
+                                "Sendha namak is used for all Navratra meals.",
+                                "Kid’s meal includes a vegetarian mini burger, a fruit juice, a chocolate bar and a pack of potato chips, along with a take-away airplane shaped bag."
+                            ]
+                        },
+                        {
+                            "title": "Beverages",
+                            "items": [
+                                {
+                                    "amount": 0,
+                                    "available_quantity": 5000,
+                                    "code": "BVG",
+                                    "tax": [],
+                                    "name": "Beverages",
+                                    "is_veg": "",
+                                    "description": "",
+                                    "priority": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "baggage": [
+                        {
+                            "title": "Baggage",
+                            "items": [
+                                {
+                                    "amount": 3500,
+                                    "available_quantity": 5000,
+                                    "code": "EB15",
+                                    "tax": [],
+                                    "name": "Excess Baggage 15 Kg",
+                                    "weight": "15",
+                                    "unit": "Kg",
+                                    "description": "You can carry additional check-in baggage of 15 Kg",
+                                    "priority": 0
+                                },
+                                {
+                                    "amount": 8000,
+                                    "available_quantity": 5000,
+                                    "code": "EB30",
+                                    "tax": [],
+                                    "name": "Excess Baggage 30 Kg",
+                                    "weight": "30",
+                                    "unit": "Kg",
+                                    "description": "You can carry additional check-in baggage of 30 Kg",
+                                    "priority": 1
+                                },
+                                {
+                                    "amount": 500,
+                                    "available_quantity": 5000,
+                                    "code": "EB05",
+                                    "tax": [],
+                                    "name": "Excess Baggage 5 Kg",
+                                    "weight": "5",
+                                    "unit": "Kg",
+                                    "description": "You can carry additional check-in baggage of 5 Kg",
+                                    "priority": 2
+                                },
+                                {
+                                    "amount": 4667,
+                                    "available_quantity": 5000,
+                                    "code": "EB20",
+                                    "tax": [],
+                                    "name": "Excess Baggage 20 Kg",
+                                    "weight": "20",
+                                    "unit": "Kg",
+                                    "description": "You can carry additional check-in baggage of 20 Kg",
+                                    "priority": 3
+                                },
+                                {
+                                    "amount": 2000,
+                                    "available_quantity": 5000,
+                                    "code": "EB10",
+                                    "tax": [],
+                                    "name": "Excess Baggage 10 Kg",
+                                    "weight": "10",
+                                    "unit": "Kg",
+                                    "description": "You can carry additional check-in baggage of 10 Kg",
+                                    "priority": 4
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "validations": {
+                    "food": [
+                        {
+                            "type": [
+                                "Meals",
+                                "Beverages"
+                            ],
+                            "min": 0,
+                            "max": 10
+                        }
+                    ],
+                    "baggage": [
+                        {
+                            "type": [
+                                "Baggage"
+                            ],
+                            "min": 0,
+                            "max": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "flight_number": "2623",
+                "origin": "DEL",
+                "destination": "JAI",
+                "ssrs": {
+                    "food": [
+                        {
+                            "title": "Meals",
+                            "items": [
+                                {
+                                    "amount": 180,
+                                    "available_quantity": 5000,
+                                    "code": "NSB1",
+                                    "tax": [],
+                                    "name": "Sub Sandwiches",
+                                    "is_veg": false,
+                                    "description": "Angara Chicken Tikka Sub roll in Multigrain Bread",
+                                    "priority": 21
+                                },
+                                {
+                                    "amount": 0,
+                                    "available_quantity": 5000,
+                                    "code": "VSB2",
+                                    "tax": [],
+                                    "name": "Sub Sandwiches",
+                                    "is_veg": true,
+                                    "description": "Grilled vegetable in Barbeque sauce in Multigrain Bread",
+                                    "priority": 22
+                                },
+                                {
+                                    "amount": 180,
+                                    "available_quantity": 5000,
+                                    "code": "NSW2",
+                                    "tax": [],
+                                    "name": "Classic Sandwiches",
+                                    "is_veg": false,
+                                    "description": "Barbeque Chicken Club sandwich in Marble Bread",
+                                    "priority": 23
+                                },
+                                {
+                                    "amount": 0,
+                                    "available_quantity": 5000,
+                                    "code": "VSW2",
+                                    "tax": [],
+                                    "name": "Classic Sandwiches",
+                                    "is_veg": true,
+                                    "description": "Spinach, Corn and Cheese Club sandwich in Marble Bread",
+                                    "priority": 24
+                                },
+                                {
+                                    "amount": 180,
+                                    "available_quantity": 5000,
+                                    "code": "NSW1",
+                                    "tax": [],
+                                    "name": "Classic Sandwiches",
+                                    "is_veg": false,
+                                    "description": "Chicken Junglee Club Sandwich in Marble Bread",
+                                    "priority": 25
+                                },
+                                {
+                                    "amount": 0,
+                                    "available_quantity": 5000,
+                                    "code": "VSW1",
+                                    "tax": [],
+                                    "name": "Classic Sandwiches",
+                                    "is_veg": true,
+                                    "description": "Cole Slaw Club Sandwich in Marble Bread",
+                                    "priority": 26
+                                },
+                                {
+                                    "amount": 0,
+                                    "available_quantity": 5000,
+                                    "code": "VSB1",
+                                    "tax": [],
+                                    "name": "Sub Sandwiches",
+                                    "is_veg": true,
+                                    "description": "Angara Paneer Tikka Sub roll in Multigrain Bread",
+                                    "priority": 28
+                                },
+                                {
+                                    "amount": 180,
+                                    "available_quantity": 5000,
+                                    "code": "NSB2",
+                                    "tax": [],
+                                    "name": "Sub Sandwiches",
+                                    "is_veg": false,
+                                    "description": "Chicken Malai Tikka Sub roll in Multigrain Bread",
+                                    "priority": 31
+                                },
+                                {
+                                    "amount": 180,
+                                    "available_quantity": 5000,
+                                    "code": "NVSW",
+                                    "tax": [],
+                                    "name": "Sandwich",
+                                    "is_veg": false,
+                                    "description": "Non Veg Sandwich",
+                                    "priority": 44
+                                },
+                                {
+                                    "amount": 0,
+                                    "available_quantity": 5000,
+                                    "code": "VGSW",
+                                    "tax": [],
+                                    "name": "Sandwich",
+                                    "is_veg": true,
+                                    "description": "Veg Sandwich",
+                                    "priority": 47
+                                }
+                            ],
+                            "terms": [
+                                "By selecting any of the options, the Passenger agrees that if the pre-ordered meal is not made available onboard to the Passenger, Spicejet has the right to offer an alternate meal (as per availability) or a full refund (by way of a voucher of the equivalent value paid by the Passenger for the meal), at its discretion and without any further liability.",
+                                "Hot meals are only available for sale on Boeing flights with block time of 76 Mins and above. Hot beverages are available on Boeing Flights with block time of 51 mins and above & Q-400 flights with Block time of 76 mins and above.",
+                                "Sendha namak is used for all Navratra meals.",
+                                "Kid’s meal includes a vegetarian mini burger, a fruit juice, a chocolate bar and a pack of potato chips, along with a take-away airplane shaped bag."
+                            ]
+                        },
+                        {
+                            "title": "Beverages",
+                            "items": [
+                                {
+                                    "amount": 0,
+                                    "available_quantity": 5000,
+                                    "code": "BVG",
+                                    "tax": [],
+                                    "name": "Beverages",
+                                    "is_veg": "",
+                                    "description": "",
+                                    "priority": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "baggage": [
+                        {
+                            "title": "Baggage",
+                            "items": [
+                                {
+                                    "amount": 3500,
+                                    "available_quantity": 5000,
+                                    "code": "EB15",
+                                    "tax": [],
+                                    "name": "Excess Baggage 15 Kg",
+                                    "weight": "15",
+                                    "unit": "Kg",
+                                    "description": "You can carry additional check-in baggage of 15 Kg",
+                                    "priority": 0
+                                },
+                                {
+                                    "amount": 8000,
+                                    "available_quantity": 5000,
+                                    "code": "EB30",
+                                    "tax": [],
+                                    "name": "Excess Baggage 30 Kg",
+                                    "weight": "30",
+                                    "unit": "Kg",
+                                    "description": "You can carry additional check-in baggage of 30 Kg",
+                                    "priority": 1
+                                },
+                                {
+                                    "amount": 500,
+                                    "available_quantity": 5000,
+                                    "code": "EB05",
+                                    "tax": [],
+                                    "name": "Excess Baggage 5 Kg",
+                                    "weight": "5",
+                                    "unit": "Kg",
+                                    "description": "You can carry additional check-in baggage of 5 Kg",
+                                    "priority": 2
+                                },
+                                {
+                                    "amount": 4667,
+                                    "available_quantity": 5000,
+                                    "code": "EB20",
+                                    "tax": [],
+                                    "name": "Excess Baggage 20 Kg",
+                                    "weight": "20",
+                                    "unit": "Kg",
+                                    "description": "You can carry additional check-in baggage of 20 Kg",
+                                    "priority": 3
+                                },
+                                {
+                                    "amount": 2000,
+                                    "available_quantity": 5000,
+                                    "code": "EB10",
+                                    "tax": [],
+                                    "name": "Excess Baggage 10 Kg",
+                                    "weight": "10",
+                                    "unit": "Kg",
+                                    "description": "You can carry additional check-in baggage of 10 Kg",
+                                    "priority": 4
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "validations": {
+                    "food": [
+                        {
+                            "type": [
+                                "Meals",
+                                "Beverages"
+                            ],
+                            "min": 0,
+                            "max": 10
+                        }
+                    ],
+                    "baggage": [
+                        {
+                            "type": [
+                                "Baggage"
+                            ],
+                            "min": 0,
+                            "max": 1
+                        }
+                    ]
+                }
+            }
+        ],
+        "return": [
+            {
+                "flight_number": "2624",
+                "origin": "JAI",
+                "destination": "DEL",
+                "ssrs": {
+                    "food": [
+                        {
+                            "title": "Meals",
+                            "items": [
+                                {
+                                    "amount": 180,
+                                    "available_quantity": 5000,
+                                    "code": "NSB1",
+                                    "tax": [],
+                                    "name": "Sub Sandwiches",
+                                    "is_veg": false,
+                                    "description": "Angara Chicken Tikka Sub roll in Multigrain Bread",
+                                    "priority": 21
+                                },
+                                {
+                                    "amount": 0,
+                                    "available_quantity": 5000,
+                                    "code": "VSB2",
+                                    "tax": [],
+                                    "name": "Sub Sandwiches",
+                                    "is_veg": true,
+                                    "description": "Grilled vegetable in Barbeque sauce in Multigrain Bread",
+                                    "priority": 22
+                                },
+                                {
+                                    "amount": 180,
+                                    "available_quantity": 5000,
+                                    "code": "NSW2",
+                                    "tax": [],
+                                    "name": "Classic Sandwiches",
+                                    "is_veg": false,
+                                    "description": "Barbeque Chicken Club sandwich in Marble Bread",
+                                    "priority": 23
+                                },
+                                {
+                                    "amount": 0,
+                                    "available_quantity": 5000,
+                                    "code": "VSW2",
+                                    "tax": [],
+                                    "name": "Classic Sandwiches",
+                                    "is_veg": true,
+                                    "description": "Spinach, Corn and Cheese Club sandwich in Marble Bread",
+                                    "priority": 24
+                                },
+                                {
+                                    "amount": 180,
+                                    "available_quantity": 5000,
+                                    "code": "NSW1",
+                                    "tax": [],
+                                    "name": "Classic Sandwiches",
+                                    "is_veg": false,
+                                    "description": "Chicken Junglee Club Sandwich in Marble Bread",
+                                    "priority": 25
+                                },
+                                {
+                                    "amount": 0,
+                                    "available_quantity": 5000,
+                                    "code": "VSW1",
+                                    "tax": [],
+                                    "name": "Classic Sandwiches",
+                                    "is_veg": true,
+                                    "description": "Cole Slaw Club Sandwich in Marble Bread",
+                                    "priority": 26
+                                },
+                                {
+                                    "amount": 0,
+                                    "available_quantity": 5000,
+                                    "code": "VSB1",
+                                    "tax": [],
+                                    "name": "Sub Sandwiches",
+                                    "is_veg": true,
+                                    "description": "Angara Paneer Tikka Sub roll in Multigrain Bread",
+                                    "priority": 28
+                                },
+                                {
+                                    "amount": 180,
+                                    "available_quantity": 5000,
+                                    "code": "NSB2",
+                                    "tax": [],
+                                    "name": "Sub Sandwiches",
+                                    "is_veg": false,
+                                    "description": "Chicken Malai Tikka Sub roll in Multigrain Bread",
+                                    "priority": 31
+                                },
+                                {
+                                    "amount": 180,
+                                    "available_quantity": 5000,
+                                    "code": "NVSW",
+                                    "tax": [],
+                                    "name": "Sandwich",
+                                    "is_veg": false,
+                                    "description": "Non Veg Sandwich",
+                                    "priority": 44
+                                },
+                                {
+                                    "amount": 0,
+                                    "available_quantity": 5000,
+                                    "code": "VGSW",
+                                    "tax": [],
+                                    "name": "Sandwich",
+                                    "is_veg": true,
+                                    "description": "Veg Sandwich",
+                                    "priority": 47
+                                }
+                            ],
+                            "terms": [
+                                "By selecting any of the options, the Passenger agrees that if the pre-ordered meal is not made available onboard to the Passenger, Spicejet has the right to offer an alternate meal (as per availability) or a full refund (by way of a voucher of the equivalent value paid by the Passenger for the meal), at its discretion and without any further liability.",
+                                "Hot meals are only available for sale on Boeing flights with block time of 76 Mins and above. Hot beverages are available on Boeing Flights with block time of 51 mins and above & Q-400 flights with Block time of 76 mins and above.",
+                                "Sendha namak is used for all Navratra meals.",
+                                "Kid’s meal includes a vegetarian mini burger, a fruit juice, a chocolate bar and a pack of potato chips, along with a take-away airplane shaped bag."
+                            ]
+                        },
+                        {
+                            "title": "Beverages",
+                            "items": [
+                                {
+                                    "amount": 0,
+                                    "available_quantity": 5000,
+                                    "code": "BVG",
+                                    "tax": [],
+                                    "name": "Beverages",
+                                    "is_veg": "",
+                                    "description": "",
+                                    "priority": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "baggage": [
+                        {
+                            "title": "Baggage",
+                            "items": [
+                                {
+                                    "amount": 3500,
+                                    "available_quantity": 5000,
+                                    "code": "EB15",
+                                    "tax": [],
+                                    "name": "Excess Baggage 15 Kg",
+                                    "weight": "15",
+                                    "unit": "Kg",
+                                    "description": "You can carry additional check-in baggage of 15 Kg",
+                                    "priority": 0
+                                },
+                                {
+                                    "amount": 8000,
+                                    "available_quantity": 5000,
+                                    "code": "EB30",
+                                    "tax": [],
+                                    "name": "Excess Baggage 30 Kg",
+                                    "weight": "30",
+                                    "unit": "Kg",
+                                    "description": "You can carry additional check-in baggage of 30 Kg",
+                                    "priority": 1
+                                },
+                                {
+                                    "amount": 500,
+                                    "available_quantity": 5000,
+                                    "code": "EB05",
+                                    "tax": [],
+                                    "name": "Excess Baggage 5 Kg",
+                                    "weight": "5",
+                                    "unit": "Kg",
+                                    "description": "You can carry additional check-in baggage of 5 Kg",
+                                    "priority": 2
+                                },
+                                {
+                                    "amount": 4667,
+                                    "available_quantity": 5000,
+                                    "code": "EB20",
+                                    "tax": [],
+                                    "name": "Excess Baggage 20 Kg",
+                                    "weight": "20",
+                                    "unit": "Kg",
+                                    "description": "You can carry additional check-in baggage of 20 Kg",
+                                    "priority": 3
+                                },
+                                {
+                                    "amount": 2000,
+                                    "available_quantity": 5000,
+                                    "code": "EB10",
+                                    "tax": [],
+                                    "name": "Excess Baggage 10 Kg",
+                                    "weight": "10",
+                                    "unit": "Kg",
+                                    "description": "You can carry additional check-in baggage of 10 Kg",
+                                    "priority": 4
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "validations": {
+                    "food": [
+                        {
+                            "type": [
+                                "Meals",
+                                "Beverages"
+                            ],
+                            "min": 0,
+                            "max": 10
+                        }
+                    ],
+                    "baggage": [
+                        {
+                            "type": [
+                                "Baggage"
+                            ],
+                            "min": 0,
+                            "max": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "flight_number": " 143",
+                "origin": "DEL",
+                "destination": "BLR",
+                "ssrs": {
+                    "food": [
+                        {
+                            "title": "Meals",
+                            "items": [
+                                {
+                                    "amount": 275,
+                                    "available_quantity": 5000,
+                                    "code": "NVBF",
+                                    "tax": [],
+                                    "name": "Breakfast",
+                                    "is_veg": false,
+                                    "description": "Non Veg Breakfast",
+                                    "priority": 0
+                                },
+                                {
+                                    "amount": 275,
+                                    "available_quantity": 5000,
+                                    "code": "VBF1",
+                                    "tax": [],
+                                    "name": "Vegetable Upma",
+                                    "is_veg": true,
+                                    "description": "Vegetable Upma with Sambhar, Medu Wada & Steamed Idli with Coconut Chutney",
+                                    "priority": 1
+                                },
+                                {
+                                    "amount": 275,
+                                    "available_quantity": 5000,
+                                    "code": "VBF2",
+                                    "tax": [],
+                                    "name": "Paneer Bhurji",
+                                    "is_veg": true,
+                                    "description": "Paneer Bhurji with Vermicilli Croquette & Aloo Parantha",
+                                    "priority": 3
+                                },
+                                {
+                                    "amount": 275,
+                                    "available_quantity": 5000,
+                                    "code": "NLD2",
+                                    "tax": [],
+                                    "name": "Chicken Tikka",
+                                    "is_veg": false,
+                                    "description": "Chicken Tikka Biryani with Mirch ka Salan",
+                                    "priority": 4
+                                },
+                                {
+                                    "amount": 275,
+                                    "available_quantity": 5000,
+                                    "code": "VLD2",
+                                    "tax": [],
+                                    "name": "Vegetable Biryani",
+                                    "is_veg": true,
+                                    "description": "Vegetable Biryani with Mirch ka Salan",
+                                    "priority": 5
+                                },
+                                {
+                                    "amount": 275,
+                                    "available_quantity": 5000,
+                                    "code": "NLD1",
+                                    "tax": [],
+                                    "name": "Chicken Methi",
+                                    "is_veg": false,
+                                    "description": "Chicken Methi Malai with Jeera Rice and Dal Makhani",
+                                    "priority": 6
+                                },
+                                {
+                                    "amount": 275,
+                                    "available_quantity": 5000,
+                                    "code": "VLD1",
+                                    "tax": [],
+                                    "name": "Paneer Methi",
+                                    "is_veg": true,
+                                    "description": "Paneer Methi Malai with Jeera Rice and Dal Makhani",
+                                    "priority": 7
+                                },
+                                {
+                                    "amount": 275,
+                                    "available_quantity": 5000,
+                                    "code": "NSX1",
+                                    "tax": [],
+                                    "name": "Chilli Chicken",
+                                    "is_veg": false,
+                                    "description": "Chilli Chicken with Vegetable Hakka Noodles",
+                                    "priority": 8
+                                },
+                                {
+                                    "amount": 275,
+                                    "available_quantity": 5000,
+                                    "code": "VSX1",
+                                    "tax": [],
+                                    "name": "Chilli Paneer",
+                                    "is_veg": true,
+                                    "description": "Chilli Paneer with Vegetable Hakka Noodles",
+                                    "priority": 9
+                                },
+                                {
+                                    "amount": 275,
+                                    "available_quantity": 5000,
+                                    "code": "NSX2",
+                                    "tax": [],
+                                    "name": "Chicken Pasta",
+                                    "is_veg": false,
+                                    "description": "Chicken Pasta (Penne) with Tomato Sauce, Sauté Broccoli and Zucchini",
+                                    "priority": 10
+                                },
+                                {
+                                    "amount": 275,
+                                    "available_quantity": 5000,
+                                    "code": "VSX2",
+                                    "tax": [],
+                                    "name": "Vegetable Pasta",
+                                    "is_veg": true,
+                                    "description": "Vegetable Pasta (Penne) with Tomato Sauce, Sauté Broccoli and Zucchini",
+                                    "priority": 11
+                                },
+                                {
+                                    "amount": 300,
+                                    "available_quantity": 5000,
+                                    "code": "NCC2",
+                                    "tax": [],
+                                    "name": "Chicken Red Thai Curry",
+                                    "is_veg": false,
+                                    "description": "Chicken in Red Thai Curry with Steamed Rice",
+                                    "priority": 12
+                                },
+                                {
+                                    "amount": 300,
+                                    "available_quantity": 5000,
+                                    "code": "VCC2",
+                                    "tax": [],
+                                    "name": "Vegetables Red Thai Curry",
+                                    "is_veg": true,
+                                    "description": "Vegetables in Red Thai Curry with Steamed Rice",
+                                    "priority": 13
+                                },
+                                {
+                                    "amount": 300,
+                                    "available_quantity": 5000,
+                                    "code": "NCC3",
+                                    "tax": [],
+                                    "name": "Chicken Stroganoff",
+                                    "is_veg": false,
+                                    "description": "Chicken Stroganoff with Yellow Rice",
+                                    "priority": 14
+                                },
+                                {
+                                    "amount": 300,
+                                    "available_quantity": 5000,
+                                    "code": "VCC3",
+                                    "tax": [],
+                                    "name": "Vegetable Stroganoff",
+                                    "is_veg": true,
+                                    "description": "Vegetable Stroganoff with Yellow Rice",
+                                    "priority": 15
+                                },
+                                {
+                                    "amount": 300,
+                                    "available_quantity": 5000,
+                                    "code": "NCC1",
+                                    "tax": [],
+                                    "name": "Grilled Chicken",
+                                    "is_veg": false,
+                                    "description": "Grilled Chicken Breast with Mushroom Sauce, Yellow Rice, Sauté Carrot & Beans Baton",
+                                    "priority": 16
+                                },
+                                {
+                                    "amount": 300,
+                                    "available_quantity": 5000,
+                                    "code": "VCC4",
+                                    "tax": [],
+                                    "name": "Rajma Masala",
+                                    "is_veg": true,
+                                    "description": "Rajma Masala with Steamed Rice",
+                                    "priority": 17
+                                },
+                                {
+                                    "amount": 300,
+                                    "available_quantity": 5000,
+                                    "code": "VCC1",
+                                    "tax": [],
+                                    "name": "Kadi Pakoda",
+                                    "is_veg": true,
+                                    "description": "Kadi Pakoda with Steamed Rice",
+                                    "priority": 18
+                                },
+                                {
+                                    "amount": 180,
+                                    "available_quantity": 5000,
+                                    "code": "NSB1",
+                                    "tax": [],
+                                    "name": "Sub Sandwiches",
+                                    "is_veg": false,
+                                    "description": "Angara Chicken Tikka Sub roll in Multigrain Bread",
+                                    "priority": 21
+                                },
+                                {
+                                    "amount": 0,
+                                    "available_quantity": 5000,
+                                    "code": "VSB2",
+                                    "tax": [],
+                                    "name": "Sub Sandwiches",
+                                    "is_veg": true,
+                                    "description": "Grilled vegetable in Barbeque sauce in Multigrain Bread",
+                                    "priority": 22
+                                },
+                                {
+                                    "amount": 180,
+                                    "available_quantity": 5000,
+                                    "code": "NSW2",
+                                    "tax": [],
+                                    "name": "Classic Sandwiches",
+                                    "is_veg": false,
+                                    "description": "Barbeque Chicken Club sandwich in Marble Bread",
+                                    "priority": 23
+                                },
+                                {
+                                    "amount": 0,
+                                    "available_quantity": 5000,
+                                    "code": "VSW2",
+                                    "tax": [],
+                                    "name": "Classic Sandwiches",
+                                    "is_veg": true,
+                                    "description": "Spinach, Corn and Cheese Club sandwich in Marble Bread",
+                                    "priority": 24
+                                },
+                                {
+                                    "amount": 275,
+                                    "available_quantity": 5000,
+                                    "code": "NBF1",
+                                    "tax": [],
+                                    "name": "Masala Omelette",
+                                    "is_veg": false,
+                                    "description": "Masala Omelette with Chicken Nuggets and Hash Brown Potato Tikki",
+                                    "priority": 42
+                                },
+                                {
+                                    "amount": 275,
+                                    "available_quantity": 5000,
+                                    "code": "NVML",
+                                    "tax": [],
+                                    "name": "Meal",
+                                    "is_veg": false,
+                                    "description": "Non Veg Meal",
+                                    "priority": 43
+                                },
+                                {
+                                    "amount": 180,
+                                    "available_quantity": 5000,
+                                    "code": "NVSW",
+                                    "tax": [],
+                                    "name": "Sandwich",
+                                    "is_veg": false,
+                                    "description": "Non Veg Sandwich",
+                                    "priority": 44
+                                },
+                                {
+                                    "amount": 275,
+                                    "available_quantity": 5000,
+                                    "code": "VGBF",
+                                    "tax": [],
+                                    "name": "Breakfast",
+                                    "is_veg": true,
+                                    "description": "Veg Breakfast",
+                                    "priority": 45
+                                },
+                                {
+                                    "amount": 275,
+                                    "available_quantity": 5000,
+                                    "code": "VGML",
+                                    "tax": [],
+                                    "name": "Meal",
+                                    "is_veg": true,
+                                    "description": "Veg Meal",
+                                    "priority": 46
+                                },
+                                {
+                                    "amount": 0,
+                                    "available_quantity": 5000,
+                                    "code": "VGSW",
+                                    "tax": [],
+                                    "name": "Sandwich",
+                                    "is_veg": true,
+                                    "description": "Veg Sandwich",
+                                    "priority": 47
+                                },
+                                {
+                                    "amount": 275,
+                                    "available_quantity": 5000,
+                                    "code": "NBF2",
+                                    "tax": [],
+                                    "name": "Egg Bhurji",
+                                    "is_veg": false,
+                                    "description": "Egg Bhurji with Chicken Croquette & Aloo Parantha",
+                                    "priority": 48
+                                }
+                            ],
+                            "terms": [
+                                "By selecting any of the options, the Passenger agrees that if the pre-ordered meal is not made available onboard to the Passenger, Spicejet has the right to offer an alternate meal (as per availability) or a full refund (by way of a voucher of the equivalent value paid by the Passenger for the meal), at its discretion and without any further liability.",
+                                "Hot meals are only available for sale on Boeing flights with block time of 76 Mins and above. Hot beverages are available on Boeing Flights with block time of 51 mins and above & Q-400 flights with Block time of 76 mins and above.",
+                                "Sendha namak is used for all Navratra meals.",
+                                "Kid’s meal includes a vegetarian mini burger, a fruit juice, a chocolate bar and a pack of potato chips, along with a take-away airplane shaped bag."
+                            ]
+                        },
+                        {
+                            "title": "Beverages",
+                            "items": [
+                                {
+                                    "amount": 0,
+                                    "available_quantity": 5000,
+                                    "code": "BVG",
+                                    "tax": [],
+                                    "name": "Beverages",
+                                    "is_veg": "",
+                                    "description": "",
+                                    "priority": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "baggage": [
+                        {
+                            "title": "Baggage",
+                            "items": [
+                                {
+                                    "amount": 3500,
+                                    "available_quantity": 5000,
+                                    "code": "EB15",
+                                    "tax": [],
+                                    "name": "Excess Baggage 15 Kg",
+                                    "weight": "15",
+                                    "unit": "Kg",
+                                    "description": "You can carry additional check-in baggage of 15 Kg",
+                                    "priority": 0
+                                },
+                                {
+                                    "amount": 8000,
+                                    "available_quantity": 5000,
+                                    "code": "EB30",
+                                    "tax": [],
+                                    "name": "Excess Baggage 30 Kg",
+                                    "weight": "30",
+                                    "unit": "Kg",
+                                    "description": "You can carry additional check-in baggage of 30 Kg",
+                                    "priority": 1
+                                },
+                                {
+                                    "amount": 500,
+                                    "available_quantity": 5000,
+                                    "code": "EB05",
+                                    "tax": [],
+                                    "name": "Excess Baggage 5 Kg",
+                                    "weight": "5",
+                                    "unit": "Kg",
+                                    "description": "You can carry additional check-in baggage of 5 Kg",
+                                    "priority": 2
+                                },
+                                {
+                                    "amount": 4667,
+                                    "available_quantity": 5000,
+                                    "code": "EB20",
+                                    "tax": [],
+                                    "name": "Excess Baggage 20 Kg",
+                                    "weight": "20",
+                                    "unit": "Kg",
+                                    "description": "You can carry additional check-in baggage of 20 Kg",
+                                    "priority": 3
+                                },
+                                {
+                                    "amount": 2000,
+                                    "available_quantity": 5000,
+                                    "code": "EB10",
+                                    "tax": [],
+                                    "name": "Excess Baggage 10 Kg",
+                                    "weight": "10",
+                                    "unit": "Kg",
+                                    "description": "You can carry additional check-in baggage of 10 Kg",
+                                    "priority": 4
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "validations": {
+                    "food": [
+                        {
+                            "type": [
+                                "Meals",
+                                "Beverages"
+                            ],
+                            "min": 0,
+                            "max": 10
+                        }
+                    ],
+                    "baggage": [
+                        {
+                            "type": [
+                                "Baggage"
+                            ],
+                            "min": 0,
+                            "max": 1
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "meta": {
+        "requestid": "8ecf3131-731b-4abb-80aa-1d3834c0538a"
+    },
+    "code": 200,
+    "internal_code": "FL2_9500"
+}
